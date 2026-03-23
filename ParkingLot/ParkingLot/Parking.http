@@ -1,0 +1,6 @@
+@Parking_HostAddress = http://localhost:5055
+
+GET {{Parking_HostAddress}}
+Accept: application/json
+
+###
